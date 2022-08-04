@@ -22,12 +22,11 @@ Enviroment Setup
 4- Behave (pip install behave)
 
 
-Python Behavie with Selenium
-1- Project Creation
-2- First Selenium Test
+#Python Behavie with Selenium
+1- Project Creation<br>
+2- First Selenium Test<br>
 
-Pychar
-install selenium package
-install behave package
-
+#Pycharm
+install selenium package<br>
+install behave package<br>
 
